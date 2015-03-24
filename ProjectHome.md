@@ -1,0 +1,1 @@
+This project will contain the source code for my tutorials on OpenGL for Android. The architecture and code is written mainly for easy understanding.
